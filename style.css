@@ -1,0 +1,18 @@
+body{
+color:black;
+background-color: deeppink;
+}
+.heading{
+width: 80%;
+font-size: 22px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name_of_objects,#object_name,#object_accuracy{
+color: midnightblue;
+font-size: 20px;
+}
+#camera,#result{
+    border: 2px dotted chartreuse;
+    width: 350px;
+    height: 300px;
+}
